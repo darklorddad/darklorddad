@@ -1,7 +1,5 @@
 ![hippo](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=darklorddad&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 <!--
 **darklorddad/darklorddad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
